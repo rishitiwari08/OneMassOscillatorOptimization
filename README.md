@@ -11,7 +11,7 @@ This project applies various optimization techniques to fit a one-mass oscillato
 - L-BFGS-B
 
 ## Repository Structure
-- `data/` - Contains the datasets (`df1.pkl`, `df2.pkl`).
+- `data/` - No folder because of NDA
 - `src/` - Contains the main optimization script.
 - `notebook_result/` - Jupyter Notebook in pdf for visualization.
 
