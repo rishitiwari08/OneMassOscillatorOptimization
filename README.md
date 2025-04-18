@@ -18,4 +18,5 @@ This project applies various optimization techniques to fit a one-mass oscillato
 ## Installation
 Run the following to install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
+```
